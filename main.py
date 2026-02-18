@@ -23,8 +23,10 @@ def keep_alive():
 TOKEN = "8381400901:AAHdoC6zuEDx3oQdzFBRWJAHsJA7Lcs7fEI"
 
 movies = {
-    "1": "BAACAgIAAxkBAAMDaZVZqtffFRkNgH2FLn2WEE_IAAEGAA", # O'zgartirmang
-    "2": "BAACAgIAAxkBAAMHaZVdHdaXZant2JK9NWLL8-LohbrEAAp"  # O'zgartirmang
+    "1": 
+    "BAACAgIAAxkBAAMDaZVZqtffFRkNgH2FLn2WEE_lAAEGAAJ2jgACt6ixSN9WB-x29_McOgQ", # O'zgartirmang
+    "2": 
+    "BAACAgIAAxkBAAMHaZVdHdaXZant2JK9NWL8-LohbrEAApCOAAK3qLFIjRO0N6tquL86BA"  # O'zgartirmang
 }
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
