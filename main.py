@@ -12,7 +12,7 @@ def run(): app.run(host='0.0.0.0', port=8080)
 def keep_alive(): Thread(target=run).start()
 
 # SOZLAMALAR
-TOKEN = '8381400901:AAHdoC6zuEDx3oQdzFBRWJAHsJA7Lcs7fEI' 
+TOKEN = '8381400901:AAFW21KzIeT0ZuVfiFbbH9Tiv335hZvMwvE' 
 CHANNEL_ID = '@Shoxkongilocharparchalar' 
 CHANNEL_LINK = 'https://t.me/Shoxkongilocharparchalar'
 INSTAGRAM_LINK = 'https://www.instagram.com/shakh_6666_?igsh=MXB6NnVrZDF0Z2o0eA=='
