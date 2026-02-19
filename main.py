@@ -28,7 +28,9 @@ async def is_subscribed(user_id, context):
     try:
         member = await context.bot.get_chat_member(chat_id=CHANNEL_ID, user_id=user_id)
         return member.status in ['member', 'administrator', 'creator']
-    except: return False
+    except:
+        return False
+
 
 async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
