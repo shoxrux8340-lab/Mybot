@@ -23,7 +23,6 @@ movies = {
     "2":
 "BAACAgEAAxkBAAOdaZZ7WHZMNYu7t9u-dZ9Yk48kwTcAAsLAALxtJlEHRVMTD_K0U6BA"
 }
-
 async def is_subscribed(user_id, context):
     try:
         # Qator bo'linib ketmasligi uchun qavs ichiga olindi
