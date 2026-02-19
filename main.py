@@ -19,7 +19,7 @@ INSTAGRAM_LINK = 'https://www.instagram.com/shakh_6666_?igsh=MXB6NnVrZDF0Z2o0eA=
 movies = {
     "1": "BAACAgIAAxkBAAMDaZVZqtffFRkNgH2FLn2WEE_lAAEGAAJ2jgACt6ixSN9WB-x29_McOgQ",
     "3": "BAACAgIAAxkBAAO9aZcy1-mzoL-50denhNx1nG8y0EwAApVFAAL4FcBKkSB1AluE4SA6BA",
-    "2": "BAACAgEAAxkBAAOdaZZ7WHZMNYu7t9u-dZ9Yk48kwTcAAtsLAALxtJlEHRVMTD_K0U6BA"
+    "2": "BAACAgEAAxkBAAOdaZZ7WHZMNYu7t9u-dZ9Yk48kwTcAAsLAALxtJlEHRVMTD_K0U6BA"
 }
 
 async def is_subscribed(user_id, context):
