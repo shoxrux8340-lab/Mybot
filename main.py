@@ -26,7 +26,7 @@ movies = {
 async def is_subscribed(user_id, context):
     try:
         # Qator bo'linib ketmasligi uchun qavs ichiga olindi
-        member = await context.bot.get_chat_member(chat_id=CHANNEL_ID, user_id=user_id)
+        member = await   context.bot.get_chat_member(chat_id=CHANNEL_ID, user_id=user_id)
         return member.status in ['member', 'administrator', 'creator']
     except:
         return False
