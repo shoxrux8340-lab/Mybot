@@ -30,7 +30,8 @@ movies = {
 "7":"BAACAgIAAxkBAAID72mhDtJfzDxCuz7c6G-Mo4k1539GAAKuRQAC-BXASkf1G9CVbCf-OgQ",
     "8":"BAACAgIAAxkBAAIEOmmj-xrhcYS9w6fwTnngujuyXBNqAAL_RQAC-BXASoS1-YKLCYAcOgQ",
     "9":
-"BAACAgIAAxkBAAIEg2mnAAF1EfzI__9adt_4EUe9zl8BdgACBEYAAvgVwEotdn8pndffuToE"
+"BAACAgIAAxkBAAIEg2mnAAF1EfzI__9adt_4EUe9zl8BdgACBEYAAvgVwEotdn8pndffuToE",
+    "10":"BAACAgIAAxkBAAIE5WmqOfPc1E8i6Kc-FCG_SrUK2r_0AAIGRgAC-BXAShru5Al2Rx_VOgQ"
 }
 
 async def is_subscribed(user_id, context):
